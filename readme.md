@@ -8,7 +8,7 @@ Big Number Library
 Fadıl Şahin
 <br>
 
-* Project Date: <br/>
+* Project Start Date: <br/>
 March 2018
 <br>
 
